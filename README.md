@@ -1,8 +1,10 @@
 ### Hi to everyone!
-I have been dealing with Wraith, PHP, Html, Css, JavaScript, Python, MySql for 6 years. I have been update the and develop pHtml, which is my web coding language, for 3 months now, after the updates and developing are finished, I will publist to pHtml and publish it in a way that everyone can use easily.
+Hello, I'm Wraith; 
+I'm Full-Stack, Backend and Frontend developer for around 6 years.
 
-- 🔭 I’m currently working on Lipva INC.
-- 🌱 I’m currently learning React
-- 💬 Ask me about PHP
+I am using PHP, HTML, CSS, JavaScript, Python, MySql, NodeJS, Assembly, C, C++ for 6 years.
+- 🔭 I’m currently working on Wafoen.
+- 🌱 I’m currently improving my self on Assembly
+- 💬 Ask me about NodeJS
 - 📫 You can reach me to using Discord: ϟ∿𝐖𝐫𝐚𝐢𝐭𝐡#5887
 
