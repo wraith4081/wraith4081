@@ -18,7 +18,7 @@ echo $framework;
 ```
 ```sh
 > php -f framework.php
-# React, EJS, Rails, Laravel, Django, ASP.NET, Express, Spring, Angular, Ember, Vue, Svelte and so more...
+# TailwindCSS, React, EJS, Rails, Laravel, Django, ASP.NET, Express, Spring, Angular, Ember, Vue, Svelte and so more...
 ```
 ## Projects:
 ```js
