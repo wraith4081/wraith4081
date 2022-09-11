@@ -39,7 +39,8 @@ const arg = process.argv[2]?.replace('--', '');
 ```
 ```sh
 > node .
-# FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory ( a.k.a so much projects )
+# FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory
+# Oh no! The space must have been insufficient as because I was trying to print all of my 500+ projects.
 
 > node . --best
 # wafoen.com
