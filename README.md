@@ -8,7 +8,7 @@ console.log(
 ```
 ```sh
 > node --loader ts-node/esm .
-# JavaScript, TypeScript, HTML, CSS, PHP, Python, GO, Java, C++, C#, R, Ruby, Elm, Scala, Rust, CoffeScript
+# JavaScript, TypeScript, HTML, CSS, PHP, Python, GO, Java, C++, C#, R, Ruby, Elm, Scala, Rust, CoffeScript, Elixir
 ```
 ## Frameworks:
 ```php
