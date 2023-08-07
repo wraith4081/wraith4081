@@ -1,47 +1,33 @@
-## Languages:
-```ts
-import { languages } from 'wraith';
+# Welcome the My Profile!
+## Languages
+<div display="flex">
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/typescript.png" alt="TypeScript" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/javascript.png" alt="JavaScript" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/cpp.png" alt="C++" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/go.png" alt="GO" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/java.png" alt="Java" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/php.png" alt="PHP" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/python.png" alt="Python" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/ruby.png" alt="Ruby" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/rust.png" alt="Rust" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/scala.png" alt="Scala" />
+</div>
 
-console.log(
-  languages.join(', ')
-);
-```
-```sh
-> node --loader ts-node/esm .
-# JavaScript, TypeScript, HTML, CSS, PHP, Python, GO, Java, C++, C#, R, Ruby, Elm, Scala, Rust, CoffeScript, Elixir
-```
-## Frameworks:
-```php
-include 'wraith.php';
+## Frameworks
+<div display="flex">
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/next.png" alt="NextJS" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/nest.png" alt="NestJS" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/nuxt.png" alt="NuxtJS" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/svelte.png" alt="Svelte" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/ember.png" alt="Ember" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/angular.png" alt="AngularJS" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/express.png" alt="ExpressJS" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/laravel.png" alt="Laravel" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/rails.png" alt="Ruby on Rails" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/react.png" alt="ReactJS" />
+  <img width="50" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/img/tailwindcss.png" alt="TailwindCSS" />
+</div>
+<br>
 
-echo $framework;
-```
-```sh
-> php -f framework.php
-# TailwindCSS, React, EJS, Rails, Laravel, Django, ASP.NET, Express, Spring, Angular, Ember, Vue, Svelte and so more...
-```
-## Projects:
-```js
-const fs = require('node:fs');
-
-const arg = process.argv[2]?.replace('--', '');
-
-;(async function () {
-  const { Projects } = JSON.parse(
-    await fs.readFileSync('./Wraith.js', 'utf-8')
-  );
-  console.log(
-    Projects[
-      arg || 'all'
-    ]
-  );
-})();
-```
-```sh
-> node .
-# FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory
-# Oh no! The space must have been insufficient as because I was trying to print all of my 500+ projects.
-
-> node . --best
-# wafoen.com
-```
+## My Links:
+[<img width="48" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/icons/globe.png" alt="Website" />](https://wraith.com.tr)
