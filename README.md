@@ -31,3 +31,5 @@
 
 ## My Links:
 [<img width="48" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/icons/globe.png" alt="Website" />](https://wraith.com.tr)
+[<img width="48" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/icons/chat.png" alt="Discord" />](https://discord.com/users/523113284853825546)
+[<img width="48" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/icons/music.png" alt="Spotify" />](https://open.spotify.com/user/31y5r7w2jlpzlitzde5ahyc7spgi)
