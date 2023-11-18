@@ -33,3 +33,7 @@
 [<img width="48" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/icons/globe.png" alt="Website" />](https://wraith.com.tr)
 [<img width="48" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/icons/chat.png" alt="Discord" />](https://discord.com/users/523113284853825546)
 [<img width="48" src="https://raw.githubusercontent.com/wraith4081/wraith4081/main/icons/music.png" alt="Spotify" />](https://open.spotify.com/user/31y5r7w2jlpzlitzde5ahyc7spgi)
+
+ 
+
+<a href="https://www.buymeacoffee.com/wraithdeveloper" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
