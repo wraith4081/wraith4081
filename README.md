@@ -41,15 +41,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 375 hrs 53 mins
+Total Time: 376 hrs 41 mins
 
-TypeScript       316 hrs 3 mins  ████████████████████▓░░░░   82.81 %
+TypeScript       316 hrs 52 mins ████████████████████▓░░░░   82.85 %
 PHP              9 hrs 42 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 JavaScript       8 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 CSS              6 hrs 25 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 Other            5 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Makefile         4 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-MDX              4 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Makefile         4 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+MDX              4 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 JSON             4 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 Assembly         3 hrs 40 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 C++              2 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
