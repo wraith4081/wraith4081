@@ -41,18 +41,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 595 hrs 25 mins
+Total Time: 598 hrs 9 mins
 
-TypeScript       507 hrs 26 mins █████████████████████░░░░   83.92 %
+TypeScript       510 hrs 9 mins  █████████████████████░░░░   83.99 %
 Python           10 hrs 10 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-PHP              9 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-JavaScript       9 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-CSS              9 hrs 29 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+PHP              9 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+JavaScript       9 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+CSS              9 hrs 29 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 Other            9 hrs 12 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 JSON             7 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-MDX              5 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Makefile         4 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Bash             4 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+MDX              5 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Makefile         4 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Bash             4 hrs 1 min     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
