@@ -41,18 +41,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 916 hrs 56 mins
+Total Time: 918 hrs 52 mins
 
-TypeScript            753 hrs 47 mins ████████████████████▒░░░░   81.27 %
+TypeScript            753 hrs 47 mins ████████████████████▒░░░░   81.10 %
 JSON                  19 hrs 35 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Python                17 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Python                17 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 Rust                  14 hrs 35 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 CSS                   13 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 Other                 10 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Java                  10 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Java                  10 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Markdown              10 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 JavaScript            10 hrs 6 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 PHP                   9 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-MDX                   9 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
