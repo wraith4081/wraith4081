@@ -39,18 +39,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,223 hrs 48 mins
+Total Time: 1,226 hrs 46 mins
 
-TypeScript            891 hrs 15 mins ██████████████████░░░░░░░   72.14 %
-Svelte                48 hrs 3 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Markdown              47 hrs 39 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Rust                  32 hrs 42 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-JSON                  32 hrs 3 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Python                28 hrs 28 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-JavaScript            18 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+TypeScript            891 hrs 31 mins ██████████████████░░░░░░░   71.99 %
+Svelte                48 hrs 3 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Markdown              47 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Rust                  33 hrs 42 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+JSON                  32 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Python                28 hrs 59 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+JavaScript            18 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 CSS                   15 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 Other                 11 hrs 42 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Java                  10 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Java                  10 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
