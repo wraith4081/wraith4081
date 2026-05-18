@@ -4,15 +4,24 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    # Runs daily at 00:15 Europe/Istanbul
+    - cron: "15 0 * * *"
+      timezone: "Europe/Istanbul"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: waka-readme
+  cancel-in-progress: true
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: athul/waka-readme@370590ad8da8f54282ed92aa42b7c25ecbd5a9a6
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
@@ -21,4 +30,4 @@ jobs:
           LANG_COUNT: 10
           SHOW_TITLE: true
           CODE_LANG: rust
-          BLOCKS: ->
+          BLOCKS: "->"
