@@ -39,20 +39,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 June 2024 - To: 01 August 2026
+From: 06 June 2024 - To: 02 August 2026
 
-Total Time: 1,990 hrs 20 mins
+Total Time: 1,997 hrs 43 mins
 
-TypeScript                         1,281 hrs 40 mins     >>>>>>>>>>>>>>>>---------   63.45 %
-Svelte                             187 hrs 53 mins       >>-----------------------   09.30 %
-Markdown                           123 hrs 37 mins       >>-----------------------   06.12 %
-JSON                               72 hrs 55 mins        >------------------------   03.61 %
-Rust                               48 hrs 14 mins        >------------------------   02.39 %
-Python                             34 hrs 54 mins        -------------------------   01.73 %
-Other                              29 hrs 45 mins        -------------------------   01.47 %
-JavaScript                         26 hrs 59 mins        -------------------------   01.34 %
-CSS                                22 hrs 34 mins        -------------------------   01.12 %
-Java                               14 hrs 52 mins        -------------------------   00.74 %
+TypeScript                         1,283 hrs 56 mins     >>>>>>>>>>>>>>>>---------   63.32 %
+Svelte                             189 hrs 29 mins       >>-----------------------   09.35 %
+Markdown                           123 hrs 48 mins       >>-----------------------   06.11 %
+JSON                               73 hrs 8 mins         >------------------------   03.61 %
+Rust                               48 hrs 14 mins        >------------------------   02.38 %
+Python                             34 hrs 54 mins        -------------------------   01.72 %
+Other                              29 hrs 53 mins        -------------------------   01.47 %
+JavaScript                         26 hrs 59 mins        -------------------------   01.33 %
+CSS                                22 hrs 34 mins        -------------------------   01.11 %
+Java                               14 hrs 52 mins        -------------------------   00.73 %
 ```
 
 <!--END_SECTION:waka-->
