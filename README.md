@@ -39,19 +39,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 June 2024 - To: 28 September 2026
+From: 06 June 2024 - To: 29 September 2026
 
-Total Time: 2,284 hrs 12 mins
+Total Time: 2,289 hrs 52 mins
 
-TypeScript                         1,435 hrs 57 mins     >>>>>>>>>>>>>>>----------   61.97 %
-Svelte                             244 hrs 54 mins       >>>----------------------   10.57 %
-Markdown                           165 hrs 41 mins       >>-----------------------   07.15 %
-JSON                               84 hrs 22 mins        >------------------------   03.64 %
-Rust                               54 hrs 23 mins        >------------------------   02.35 %
-Python                             41 hrs 23 mins        -------------------------   01.79 %
-Other                              32 hrs 56 mins        -------------------------   01.42 %
-JavaScript                         28 hrs 53 mins        -------------------------   01.25 %
-CSS                                23 hrs 38 mins        -------------------------   01.02 %
+TypeScript                         1,438 hrs 12 mins     >>>>>>>>>>>>>>>----------   61.91 %
+Svelte                             245 hrs 57 mins       >>>----------------------   10.59 %
+Markdown                           166 hrs 47 mins       >>-----------------------   07.18 %
+JSON                               84 hrs 31 mins        >------------------------   03.64 %
+Rust                               55 hrs 10 mins        >------------------------   02.38 %
+Python                             41 hrs 37 mins        -------------------------   01.79 %
+Other                              33 hrs 5 mins         -------------------------   01.42 %
+JavaScript                         28 hrs 56 mins        -------------------------   01.25 %
+CSS                                23 hrs 39 mins        -------------------------   01.02 %
 C#                                 15 hrs 10 mins        -------------------------   00.65 %
 ```
 
